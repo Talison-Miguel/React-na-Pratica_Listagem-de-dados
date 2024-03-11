@@ -7,9 +7,9 @@
  
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-blue">
   
-  <img alt="React-router" src="https://img.shields.io/badge/React-router-green">
+  <img alt="React-router" src="https://img.shields.io/badge/ReactRouter-green">
     
-  <img alt="Radix-ui" src="https://img.shields.io/badge/Radix-ui-green">
+  <img alt="Radix-ui" src="https://img.shields.io/badge/RadixUi-green">
 
   <br>
   
